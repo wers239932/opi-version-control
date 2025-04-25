@@ -1,0 +1,78 @@
+public class K extends null implements F, A {
+
+    private int e = 42;
+
+    private long c = 4321;
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
+
+    public byte oo() {
+        return 3;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public void ab() {
+        System.out.println();
+    }
+
+    public float ff() {
+        return 0;
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
+
+    public double ee() {
+        return 100.500;
+    }
+
+    public long dd() {
+        return 33;
+    }
+
+    public void aa() {
+        return;
+    }
+
+    public int cc() {
+        return 13;
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+}
